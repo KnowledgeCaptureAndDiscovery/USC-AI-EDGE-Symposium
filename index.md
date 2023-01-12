@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USC AI Futures Symposium on Artificial Intelligence and Data Science
+title: USC AI Futures Symposium on AI on the Edge
 ---
 ---
 
@@ -12,17 +12,13 @@ Profound innovations at the intersection of artificial intelligence and data sci
  
 This event is part of the USC AI Futures Symposium Series. A prior event was held in January 2021 with the theme: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
 
-## Recordings
-
-**Video recordings of all the sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>**.
-
 ## Schedule
 
-The  agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/schedule).
+The  agenda is available [here](/schedule).
 
 ## Attending
 
-The event is free and open to everyone.  Please register [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/register).
+The event is free and open to everyone.  Please register [here](/register).
 
 ## Questions?
 
