@@ -8,9 +8,9 @@ title: USC AI Futures Symposium on AI on the Edge
 <img src="images/AI-DS-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
 
 
-Profound innovations at the intersection of artificial intelligence and data science are changing our lives.  These innovations are transforming how we improve our health, connect with others, sustain our environment, understand complex systems, and enrich our lives.  This symposium presented an overview of interdisciplinary research at USC in these critical areas.
+While ubiquitous sensing is rapidly growing in terms of both sensor numbers and data generating rate in the era of internet of things (IoT), we cannot afford to convert all the analog data into digital and send them to data centers to process anymore. Processing the data and extracting effective information as much as possible on the Edge (instead of in the Cloud) have become increasingly important to tackle this issue, which can only be done efficiently through AI on the Edge.  This symposium will present an overview of research at USC on AI on the Edge, from enabling hardware, algorithms, to the co-design of them.
  
-This event is part of the USC AI Futures Symposium Series. A prior event was held in January 2021 with the theme: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
+This event is part of the USC AI Futures Symposium Series. Information about prior events and recordings are available here: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
 
 ## Schedule
 
