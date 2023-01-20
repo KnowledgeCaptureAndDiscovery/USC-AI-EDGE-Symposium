@@ -5,7 +5,7 @@ title: USC AI Futures Symposium on AI on the Edge
 ---
 
 
-<img src="images/AI-DS-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
+<img src="images/AI-on-the-Edge-Symposium-Flier.jpg" alt="AI-on-the-Edge-Symposium-Flier" width="1000" />
 
 
 While ubiquitous sensing is rapidly growing in terms of both sensor numbers and data generating rate in the era of internet of things (IoT), we cannot afford to convert all the analog data into digital and send them to data centers to process anymore. Processing the data and extracting effective information as much as possible on the Edge (instead of in the Cloud) have become increasingly important to tackle this issue, which can only be done efficiently through AI on the Edge.  This symposium will present an overview of research at USC on AI on the Edge, from enabling hardware, algorithms, to the co-design of them.
