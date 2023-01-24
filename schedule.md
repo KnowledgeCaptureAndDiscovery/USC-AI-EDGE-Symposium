@@ -4,8 +4,6 @@ title: USC AI Futures Symposium on AI on the Edge
 ---
 ---
 
-**Video recordings of all the sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>.**
-
 All times below are in PDT (Los Angeles time).
 
 ## Thursday 16 March, 2023
