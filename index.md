@@ -14,11 +14,11 @@ This event is part of the USC AI Futures Symposium Series. Information about pri
 
 ## Schedule
 
-The  agenda is available [here](/schedule).
+The  agenda is available [here](./schedule).
 
 ## Attending
 
-The event is free and open to everyone.  Please register [here](/register).
+The event is free and open to everyone.  Please register [here](./register).
 
 ## Questions?
 
