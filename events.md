@@ -11,7 +11,7 @@ title: USC AI Futures Symposium on AI on the Edge
 
 ## December 7-8, 2021: AI with Common Sense
 
-[Event website](https://www.isi.edu/events/ai-symposium/](https://www.isi.edu/events/ai-commonsense-symposium/)
+[Event website](https://www.isi.edu/events/ai-commonsense-symposium/)
 
 <img src="images/AI-CS-Symposium-Flier.jpeg" alt="AI-CS-Symposium-Flier" width="1000" />
 
