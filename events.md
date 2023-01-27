@@ -6,6 +6,23 @@ title: USC AI Futures Symposium on AI on the Edge
 
 # Prior Events
 
+
+# Prior Events
+
+## December 7-8, 2021: AI with Common Sense
+
+[Event website](https://www.isi.edu/events/ai-symposium/](https://www.isi.edu/events/ai-commonsense-symposium/)
+
+<img src="images/AI-CS-Symposium-Flier.jpg" alt="AI-CS-Symposium-Flier" width="1000" />
+
+
+## May 3-5, 2021: AI and Data Science
+
+[Event website](https://www.isi.edu/events/ai-symposium/)
+
+<img src="images/AI-DS-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
+
+
 ## January 12-13, 2021: Will AI Ever Be One of Us?
 
 [Event website](https://www.isi.edu/events/ai_symposium_2021)
