@@ -10,7 +10,7 @@ title: USC AI Futures Symposium on AI on the Edge
 
 While ubiquitous sensing is rapidly growing in terms of both sensor numbers and data generating rate in the era of internet of things (IoT), we cannot afford to convert all the analog data into digital and send them to data centers to process anymore. Processing the data and extracting effective information as much as possible on the Edge (instead of in the Cloud) have become increasingly important to tackle this issue, which can only be done efficiently through AI on the Edge.  This symposium will present an overview of research at USC on AI on the Edge, from enabling hardware, algorithms, to the co-design of them.
  
-This event is part of the USC AI Futures Symposium Series. Information about prior events and recordings are available here: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
+This event is part of the USC AI Futures Symposium Series. Information about prior events and recordings are available [here](./events).
 
 ## Schedule
 
