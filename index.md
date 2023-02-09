@@ -18,7 +18,7 @@ The  agenda is available [here](./schedule).
 
 ## Attending
 
-The event is free and open to everyone.  Please register [here](./register).
+The event is free and open to everyone.  The event will be held virtually.  To receive a link please register [here](./register).
 
 ## Questions?
 
