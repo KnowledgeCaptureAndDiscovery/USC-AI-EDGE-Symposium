@@ -9,7 +9,7 @@ All times below are in PDT (Los Angeles time).
 
 ## Thursday 16 March, 2023
 
-| Start |  End  |                                                 Session                                                  |                                                                   Photo                                                                    |
+| Start |  End  |                                                 Session                                                  |                                                                   Speaker                                                                    |
 | :---: | :---: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | 9:00  | 9:15  |                                     **Welcome and Opening Remarks**                                      |
 |  |  | [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua) (Symposium Co-Chair) <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/people/joshua-yang.jpeg" width="500" /> |
@@ -51,5 +51,8 @@ All times below are in PDT (Los Angeles time).
 | 10:50 | 11:00 |                                                    Break                                                     |                                                                                |
 | 11:00 | 11:50 |                            **PANEL DISCUSSION: Future directions on AI on Edge**                             |                                                                                |
 |       |       |                                        Session chair: [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua)  <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering                                        | <img src="images/people/joshua-yang.jpeg" alt="Photo" width="200" />           |
-|       |       |                                                 Speaker 1 TDB                                                 |                                                                                |
-|       |       |                                                 Speaker 2 TDB                                                 |                                                                                |
+|       |       |  [Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter) <br> Professor of Electrical and Computer Engineering  |                                    <img src="images/people/peter-beerel.jpg" alt="Photo" width="200" />                                    |
+|  |  | [Stephen Crago](https://www.isi.edu/directory/crago/) <br> Associate Director, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/people/steve-crago.jpg" width="500" /> |
+|       |       |  [Rahul Jain](https://viterbi.usc.edu/directory/faculty/Jain/Rahul)  <br> Professor of Electrical and Computer Engineering, Computer Science, and Industrial and Systems Engineering, Viterbi School of Engineering                          |                                    <img src="images/people/rahul-jain.jpg" alt="Photo" width="200" />                                     |
+|       |       |  [Jonathan May](https://viterbi.usc.edu/directory/faculty/May/Jonathan) <br> Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering                                        |                                      <img src="images/people/jon-may.jpg" alt="Photo" width="200" />                                       | 
+
