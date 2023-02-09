@@ -5,6 +5,8 @@ title: USC AI Futures Symposium on AI on the Edge
 
 ---
 
+The event will be held virtually.  To receive a link please register [here](./register).
+
 All times below are in PDT (Los Angeles time).
 
 ## Thursday 16 March, 2023
