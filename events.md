@@ -4,7 +4,9 @@ title: USC AI Futures Symposium on AI on the Edge
 ---
 ---
 
-# Prior Events
+This event is part of the USC AI Futures Symposia Series.  The series is intended to highlight significant concentration areas of USC research in AI and related areas.  The speakers at these events are USC researchers, with some external invited speakers.  The symposia are held as virtual events.  
+
+# Prior Events in the USC AI Futures Symposia Series
 
 
 ## December 7-8, 2021: AI with Common Sense
