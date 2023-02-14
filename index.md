@@ -4,6 +4,8 @@ title: USC AI Futures Symposium on AI on the Edge
 ---
 ---
 
+<img src="images/usc-logo.jpg" alt="USC" width="100" />
+
 
 <img src="images/AI-on-the-Edge-Symposium-Flier.jpg" alt="AI-on-the-Edge-Symposium-Flier" width="1000" />
 
