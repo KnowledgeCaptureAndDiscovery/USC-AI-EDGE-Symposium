@@ -11,6 +11,8 @@ All times below are in PDT (Los Angeles time).
 
 ## Thursday 16 March, 2023
 
+| Start |  End  |                                                 Session                                                  |                                                                   Speakers                                                                    |
+| :---: | :---: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | 9:00  | 9:15  |                                     **Welcome and Opening Remarks**                                      |
 |  |  | [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua) (Symposium Co-Chair) <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/people/joshua-yang.jpeg" width="500" /> |
 |  |  | [Yolanda Gil](https://viterbi.usc.edu/directory/faculty/Gil/Yolanda) (Symposium Co-Chair) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering | <img src="images/people/yolanda-gil.jpeg" width="875" /> |
@@ -34,6 +36,8 @@ All times below are in PDT (Los Angeles time).
 
 ## Friday 17 March, 2023
 
+| Start |  End  |                                                 Session                                                  |                                                                   Speakers                                                                    |
+| :---: | :---: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | 9:00  | 9:50  |                                       **Session III: Hardware-software co-design**                                        |                                                                                |
 |       |       |                                        Session chair: [Keith Chugg](https://viterbi.usc.edu/directory/faculty/Chugg/Keith) <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering                                        | <img src="images/people/keith-chugg.jpg" alt="Photo" width="400" />            |
 |       |       |                *Out-of-core graph analytics through multi-log memory updates* <br> [Murali Annavaram](https://viterbi.usc.edu/directory/faculty/Annavaram/Murali) <br> Dean's Professor of Electrical and Computer Engineering, Viterbi School of Engineering               | <img src="images/people/murali-annavaram.jpg" alt="Photo" width="400" />       |
