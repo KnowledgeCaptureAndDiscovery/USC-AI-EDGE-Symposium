@@ -11,7 +11,6 @@ All times below are in PDT (Los Angeles time).
 
 ## Thursday 16 March, 2023
 
-| Start |  End  |                                                 Session                                                  |                                                                   Speaker                                                                    |
 | :---: | :---: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | 9:00  | 9:15  |                                     **Welcome and Opening Remarks**                                      |
 |  |  | [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua) (Symposium Co-Chair) <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/people/joshua-yang.jpeg" width="500" /> |
@@ -36,7 +35,6 @@ All times below are in PDT (Los Angeles time).
 
 ## Friday 17 March, 2023
 
-| Start |  End  |                                                   Session                                                    |                                                                                |
 | :---: | :---: | :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
 | 9:00  | 9:50  |                                       **Session III: Hardware-software co-design**                                        |                                                                                |
 |       |       |                                        Session chair: [Keith Chugg](https://viterbi.usc.edu/directory/faculty/Chugg/Keith) <br> Professor of Electrical and Computer Engineering, Viterbi School of Engineering                                        | <img src="images/people/keith-chugg.jpg" alt="Photo" width="400" />            |
