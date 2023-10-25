@@ -116,5 +116,5 @@ Special Presentation:
 
 [Watch the video](https://youtu.be/x7rb10wGQkA?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&t=3000)
 
-- [Ishwar Puri](https://about.usc.edu/senior-administration/ishwar-k-puri/)
+- [Ishwar Puri](https://viterbi.usc.edu/directory/faculty/Puri/Ishwar)
   - Senior Vice President for Research and Innovation, University of Southern California; Professor of Aerospace and Mechanical Engineering, Viterbi School of Engineering
