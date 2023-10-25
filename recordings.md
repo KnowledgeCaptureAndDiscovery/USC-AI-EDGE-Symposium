@@ -11,7 +11,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Welcome
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=1)
+#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=1)
 
 - [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua) (Symposium Co-Chair)
   - Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -24,7 +24,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Session I
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=1)
+#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=2)
 
 - Session chair: [Jonathan May](https://viterbi.usc.edu/directory/faculty/May/Jonathan)
   - Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering
@@ -39,7 +39,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Session II
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=2)
+#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=3)
 
 - Session chair: [Stephen Crago](https://viterbi.usc.edu/directory/faculty/Crago/Stephen)
   - Associate Director, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -55,7 +55,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Invited Talks
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=3)
+#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=4)
 
 Invited Talk:
 
@@ -69,7 +69,7 @@ Special Presentation:
 
 ### Session III
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=4)
+#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=5)
 
 - Session chair: [Keith Chugg](https://viterbi.usc.edu/directory/faculty/Chugg/Keith)
   - Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -84,7 +84,7 @@ Special Presentation:
 
 ### Session IV
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=4)
+#### [Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)
 
 - Session chair: [Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter)
   - Professor of Electrical and Computer Engineering
