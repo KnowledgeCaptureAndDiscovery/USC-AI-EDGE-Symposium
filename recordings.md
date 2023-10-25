@@ -11,7 +11,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Welcome
 
-#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=1)
+#### [Watch the video](https://youtu.be/HfBhmM7_SGI?si=jbWXJpnLszAyV34I)
 
 - [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua) (Symposium Co-Chair)
   - Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -22,9 +22,9 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 - [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/)
   - Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering
 
-### Session I
+### Session I: TinyML – Machine Learning for edge devices
 
-#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=2)
+#### [Watch the video](https://youtu.be/HfBhmM7_SGI?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&t=735)
 
 - Session chair: [Jonathan May](https://viterbi.usc.edu/directory/faculty/May/Jonathan)
   - Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering
@@ -37,9 +37,9 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 - _Collaborative training of large models at the edge_ by [Salman Avestimehr](https://viterbi.usc.edu/directory/faculty/Avestimehr/Salman)
   - Dean's Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering
 
-### Session II
+### Session II: Neuromorphic computing
 
-#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=3)
+#### [Watch the video](https://www.youtube.com/watch?v=FxwvRGu9lDM&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=2)
 
 - Session chair: [Stephen Crago](https://viterbi.usc.edu/directory/faculty/Crago/Stephen)
   - Associate Director, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -55,7 +55,7 @@ Video recordings of all the sessions are avaiable [here](https://www.youtube.com
 
 ### Invited Talks
 
-#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=4)
+#### [Watch the video](https://youtu.be/zGr6WhCes7U?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh)
 
 Invited Talk:
 
@@ -67,9 +67,9 @@ Special Presentation:
 - _Opportunities for AI on the Edge Under the DOD Microelectronics Commons Program_ by [Stephen Crago](https://viterbi.usc.edu/directory/faculty/Crago/Stephen)
   - Associate Director, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Electrical and Computer Engineering, Viterbi School of Engineering
 
-### Session III
+### Session III: Hardware-software co-design
 
-#### [Watch the video](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=5)
+[Watch the video](https://youtu.be/jve91eaL1V4?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh)
 
 - Session chair: [Keith Chugg](https://viterbi.usc.edu/directory/faculty/Chugg/Keith)
   - Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -82,9 +82,9 @@ Special Presentation:
 - _Federated progressive sparsification_ by [Jose Luis Ambite](https://viterbi.usc.edu/directory/faculty/Ambite-Molina/Jose-Luis)
   - Research Team Leader, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Computer Science, Viterbi School of Engineering
 
-### Session IV
+### Session IV: Post-CMOS hardware and device materials
 
-#### [Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)
+[Watch the video](https://youtu.be/jceEt4OYWGg?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh)
 
 - Session chair: [Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter)
   - Professor of Electrical and Computer Engineering
@@ -99,7 +99,7 @@ Special Presentation:
 
 ### PANEL DISCUSSION: AI at the Frontiers of Next-Generation Computing Architectures
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&index=6)
+[Watch the video](https://www.youtube.com/watch?v=x7rb10wGQkA)
 
 - Session chair: [Joshua Yang](https://viterbi.usc.edu/directory/faculty/Yang/J-Joshua)
   - Professor of Electrical and Computer Engineering, Viterbi School of Engineering
@@ -114,7 +114,7 @@ Special Presentation:
 
 ### Concluding Remarks and Symposium Closing
 
-[![Watch the video](https://img.youtube.com/vi/HfBhmM7_SGI/default.jpg)](https://youtu.be/x7rb10wGQkA?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&t=3000)
+[Watch the video](https://youtu.be/x7rb10wGQkA?list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh&t=3000)
 
 - [Ishwar Puri](https://about.usc.edu/senior-administration/ishwar-k-puri/)
   - Senior Vice President for Research and Innovation, University of Southern California; Professor of Aerospace and Mechanical Engineering, Viterbi School of Engineering
