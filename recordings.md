@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Recordings
+title: USC AI Futures Symposium on AI on the Edge
 ---
 
 ---
+
+## Recordings
 
 Video recordings of all the sessions are avaiable [here](https://www.youtube.com/watch?v=HfBhmM7_SGI&list=PLknXvJJeEDaKws7jYUdb67K0Gg8yVASdh)
-
-## Individual Sessions
 
 ### Welcome
 
